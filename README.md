@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 
 [![StackOverflow Profile](https://stackoverflow.com/users/flair/6891637.png?theme=clean)](https://stackoverflow.com/users/6891637/ajil-o)
 
-![Ajil's github stats](https://github-readme-stats.vercel.app/api?username=ajilo297&show_icons=true&theme=buefy)
+![Ajil's github stats](https://github-readme-stats.vercel.app/api?username=ajilo297&show_icons=true&theme=buefy&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajilo297&layout=compact&theme=buefy)](https://github.com/ajilo297/github-readme-stats)
 
