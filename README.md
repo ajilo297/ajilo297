@@ -6,8 +6,6 @@
 **ajilo297/ajilo297** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working as a Software Engineer for DigiMoGo Inc.
 - 🌱 I’m currently learning Unity and React
 - 👯 I’m looking to collaborate on Open Source Flutter Libraries
