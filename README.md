@@ -7,7 +7,9 @@
 -->
 
 - 🔭 I’m currently working as a Software Engineer.
-- 👯 I’m looking to collaborate on Open Source Flutter Libraries
+- 👯 I’m open to collaborate on Open Source Flutter Libraries
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajilo297"/>
 
 [![StackOverflow Profile](https://stackoverflow.com/users/flair/6891637.png?theme=clean)](https://stackoverflow.com/users/6891637/ajil-o)
 
